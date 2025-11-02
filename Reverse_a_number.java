@@ -1,5 +1,4 @@
 package practice;
-
 import java.util.Scanner;
 
 public class Reverse_a_number {
@@ -16,3 +15,4 @@ public static void main(String[] args) {
 	System.out.println(rev);
 }
 }
+
