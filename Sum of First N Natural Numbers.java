@@ -1,5 +1,5 @@
 class Solution {
-    public int sumN(int n) {
+    public int sumN(int n)  {
         return n * (n + 1) / 2;
     }
 }
