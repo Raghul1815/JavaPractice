@@ -4,6 +4,7 @@ class Solution {
             for(int j = 0; j < b.length; j++) {
                 if(a[i] == b[j]) {
                     System.out.print(a[i] + " ");
+                    
                     break;
                 }
             }
